@@ -1,6 +1,4 @@
 //Andreas Beimler
-//Programmieren 2
-//Aufgabe 1 Verschlüsslung
  
 public class Encryption {
     
